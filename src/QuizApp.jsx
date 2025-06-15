@@ -8,14 +8,36 @@ export default function QuizApp() {
   const [results, setResults] = useState([]);
   const [showAnswer, setShowAnswer] = useState(false);
   const [finished, setFinished] = useState(false);
+  const [mode, setMode] = useState("normal"); // "normal" sau "greseli"
+
+  const generateNewQuiz = (customQuestions = null) => {
+    const base = customQuestions || [...questions];
+    const shuffled = base.sort(() => 0.5 - Math.random()).slice(0, 25);
+    setQuiz(shuffled);
+    setCurrent(0);
+    setSelected([]);
+    setResults([]);
+    setShowAnswer(false);
+    setFinished(false);
+  };
+
+  const loadWrongAnswers = () => {
+    const saved = localStorage.getItem("wrongQuestions");
+    if (saved) {
+      const parsed = JSON.parse(saved);
+      if (parsed.length > 0) {
+        setMode("greseli");
+        generateNewQuiz(parsed);
+      }
+    }
+  };
 
   useEffect(() => {
-    const shuffled = [...questions].sort(() => 0.5 - Math.random()).slice(0, 25);
-    setQuiz(shuffled);
+    generateNewQuiz();
   }, []);
 
   const handleSelect = (opt) => {
-    if (showAnswer) return; // nu mai permite select după răspuns
+    if (showAnswer) return;
     const already = selected.includes(opt);
     if (already) {
       setSelected(selected.filter((o) => o !== opt));
@@ -32,7 +54,7 @@ export default function QuizApp() {
     const correct = quiz[current].correct.map((x) => x.trim().toUpperCase()).sort();
     const answer = [...selected].map((x) => x.trim().toUpperCase()).sort();
     const isCorrect = JSON.stringify(correct) === JSON.stringify(answer);
-    setResults([...results, { question: quiz[current].question, correct, answer, isCorrect }]);
+    setResults([...results, { question: quiz[current].question, correct, answer, isCorrect, full: quiz[current] }]);
     setSelected([]);
     setShowAnswer(false);
     if (current < quiz.length - 1) {
@@ -46,9 +68,13 @@ export default function QuizApp() {
 
   if (finished) {
     const score = results.filter((r) => r.isCorrect).length;
+
+    const wrong = results.filter((r) => !r.isCorrect).map((r) => r.full);
+    localStorage.setItem("wrongQuestions", JSON.stringify(wrong));
+
     return (
       <div className="p-6 max-w-3xl mx-auto text-center">
-        <h2 className="text-3xl font-bold mb-6">Scor final: {score} / 25</h2>
+        <h2 className="text-3xl font-bold mb-6">Scor final: {score} / {quiz.length}</h2>
         <ul className="text-left">
           {results.map((r, i) => (
             <li key={i} className="mb-4 border-b pb-2">
@@ -59,12 +85,20 @@ export default function QuizApp() {
             </li>
           ))}
         </ul>
-        <button
-          onClick={() => window.location.reload()}
-          className="mt-6 px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
-        >
-          Refă testul
-        </button>
+        <div className="flex flex-col sm:flex-row justify-center gap-4 mt-6">
+          <button
+            onClick={() => { setMode("normal"); generateNewQuiz(); }}
+            className="px-6 py-2 bg-purple-600 text-white rounded hover:bg-purple-700"
+          >
+            Începe un test nou
+          </button>
+          <button
+            onClick={loadWrongAnswers}
+            className="px-6 py-2 bg-red-600 text-white rounded hover:bg-red-700"
+          >
+            Reia doar greșelile mele
+          </button>
+        </div>
       </div>
     );
   }
@@ -74,13 +108,21 @@ export default function QuizApp() {
 
   return (
     <div className="p-6 max-w-2xl mx-auto">
-      <div className="bg-white shadow-md rounded-lg p-6 border">
-        <h1 className="text-xl font-bold mb-2">Întrebarea {current + 1} / 25</h1>
-        <p className="mb-4 text-gray-800">{q.question}</p>
-        <div className="space-y-2">
+      <div className="bg-white shadow-lg rounded-xl p-6 border border-gray-200">
+        <h1 className="text-2xl font-bold mb-3 text-gray-800">
+          Întrebarea {current + 1} / {quiz.length} {mode === "greseli" ? "(Doar greșeli)" : ""}
+        </h1>
+        <p className="mb-6 text-gray-700 font-medium">{q.question}</p>
+        <div className="space-y-3">
           {["A", "B", "C", "D", "E"].map((opt) => (
             q[opt] ? (
-              <label key={opt} className={`block px-4 py-2 border rounded cursor-pointer ${selected.includes(opt) ? "bg-blue-100" : ""} ${showAnswer && correctAnswers.includes(opt) ? "border-green-500" : ""} ${showAnswer && selected.includes(opt) && !correctAnswers.includes(opt) ? "border-red-500" : ""}`}>
+              <label
+                key={opt}
+                className={`block px-4 py-3 border text-sm rounded-lg cursor-pointer transition-all duration-150
+                  ${selected.includes(opt) ? "bg-blue-100 border-blue-400" : "border-gray-300"}
+                  ${showAnswer && correctAnswers.includes(opt) ? "border-green-500 bg-green-100" : ""}
+                  ${showAnswer && selected.includes(opt) && !correctAnswers.includes(opt) ? "border-red-500 bg-red-100" : ""}`}
+              >
                 <input
                   type="checkbox"
                   checked={selected.includes(opt)}
@@ -88,7 +130,7 @@ export default function QuizApp() {
                   className="mr-2"
                   disabled={showAnswer}
                 />
-                <span>{opt}) {q[opt]}</span>
+                <span className="font-medium text-gray-800">{opt}) {q[opt]}</span>
               </label>
             ) : null
           ))}
@@ -97,14 +139,14 @@ export default function QuizApp() {
         {!showAnswer ? (
           <button
             onClick={checkAnswer}
-            className="mt-6 px-6 py-2 bg-green-600 text-white rounded hover:bg-green-700"
+            className="mt-8 w-full py-2 bg-green-600 text-white font-semibold rounded hover:bg-green-700"
           >
             Verifică răspunsul
           </button>
         ) : (
           <button
             onClick={nextQuestion}
-            className="mt-6 px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+            className="mt-8 w-full py-2 bg-blue-600 text-white font-semibold rounded hover:bg-blue-700"
           >
             Următoarea întrebare
           </button>
