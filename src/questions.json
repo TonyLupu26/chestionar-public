@@ -582,7 +582,7 @@
               },
               {
                 "question": "Ce implică noua politică de publicitate a Meta pentru utilizatorii rețelelor sociale Facebook și Instagram?",
-                "correct": ["A", "D"],
+                "correct": ["A", "B", "D"],
                 "A": "Unii cercetători media, precum Shoshana Zuboff, susțin că utilizatorii ar trebui să fie plătiți pentru datele lor.",
                 "B": "Datele utilizatorilor care nu plătesc vor fi colectate și utilizate în scop comercial",
                 "C": "Politica Meta oferă utilizatorilor o experiență complet gratuită și fără publicitate, fără colectarea datelor personale",
