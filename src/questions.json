@@ -1,752 +1,432 @@
 [
     {
-      "question": "Care dintre următoarele principii este recomandat în designul unui site web pentru a asigura o imagine profesionistă?",
-      "correct": ["C"],
-      "A": "Folosirea unui design încărcat cu elemente vizuale",
-      "B": "Utilizarea de fonturi decorative și culori contrastante",
-      "C": "Consistența în comunicare și utilizarea unui stil vizual coerent",
-      "D": "Adăugarea de imagini mari și complexe pe fiecare pagină"
+        "question": "Care dintre următoarele principii este recomandat în designul unui site web pentru a asigura o imagine profesionistă?",
+        "correct": [
+            "C"
+        ],
+        "A": "Folosirea unui design încărcat cu elemente vizuale",
+        "B": "Utilizarea de fonturi decorative și culori contrastante",
+        "C": "Consistența în comunicare și utilizarea unui stil vizual coerent",
+        "D": "Adăugarea de imagini mari și complexe pe fiecare pagină"
     },
     {
-      "question": "În ce mod a influențat Google politica de securitate națională a Statelor Unite după 11 septembrie 2001, conform lui Zuboff?",
-      "correct": ["C", "D"],
-      "A": "A eliminat colectarea datelor personale pentru a respecta reglementările privind viața privată",
-      "B": "A oferit acces deschis la datele personale colectate pentru agențiile de spionaj",
-      "C": "A colaborat cu NSA pentru a dezvolta un program similar cu cel de colectare de date comportamentale",
-      "D": "A încheiat un contract special cu CIA pentru securizarea datelor intranetului"
+        "question": "În ce mod a influențat Google politica de securitate națională a Statelor Unite după 11 septembrie 2001, conform lui Zuboff?",
+        "correct": [
+            "C",
+            "D"
+        ],
+        "A": "A eliminat colectarea datelor personale pentru a respecta reglementările privind viața privată",
+        "B": "A oferit acces deschis la datele personale colectate pentru agențiile de spionaj",
+        "C": "A colaborat cu NSA pentru a dezvolta un program similar cu cel de colectare de date comportamentale",
+        "D": "A încheiat un contract special cu CIA pentru securizarea datelor intranetului"
     },
     {
-      "question": "Care a fost efectul lansării aplicației Beacon de către Facebook asupra utilizatorilor?",
-      "correct": ["C"],
-      "A": "A dus la creşterea numărului de utilizatori",
-      "B": "A îmbunătățit experiența utilizatorilor pe platformă",
-      "C": "A generat un scandal din cauza lipsei consimțământului",
-      "D": "A fost un succes comercial imediat"
+        "question": "Care a fost efectul lansării aplicației Beacon de către Facebook asupra utilizatorilor?",
+        "correct": [
+            "C"
+        ],
+        "A": "A dus la creşterea numărului de utilizatori",
+        "B": "A îmbunătățit experiența utilizatorilor pe platformă",
+        "C": "A generat un scandal din cauza lipsei consimțământului",
+        "D": "A fost un succes comercial imediat"
     },
     {
-      "question": "Cum au reușit, într-un final, oamenii de publicitate să rezolve enigma comportamentului consumatorilor?",
-      "correct": ["D"],
-      "A": "prin analizarea structurilor de date",
-      "B": "prin folosirea unui aparat analitic",
-      "C": "prin folosirea programelor de spionaj",
-      "D": "prin extragerea datelor personale si dezvoltarea algoritmilor de predicție"
+        "question": "Cum au reușit, într-un final, oamenii de publicitate să rezolve enigma comportamentului consumatorilor?",
+        "correct": [
+            "D"
+        ],
+        "A": "prin analizarea structurilor de date",
+        "B": "prin folosirea unui aparat analitic",
+        "C": "prin folosirea programelor de spionaj",
+        "D": "prin extragerea datelor personale si dezvoltarea algoritmilor de predicție"
     },
     {
-      "question": "Care a fost rolul articolului 230 din Legea privind decența în comunicații în protejarea companiilor de tip Google și Facebook de responsabilitatea conținutului online?",
-      "correct": ["C"],
-      "A": "Le-a interzis să modereze orice tip de conținut pentru a păstra neutralitatea și a evita conflicte juridice",
-      "B": "Le-a permis să fie considerate editori responsabili de conținutul pe care îl moderează, asumându-şi decizii editoriale stricte",
-      "C": "Le-a protejat prin definirea lor ca intermediari neutri, similar bibliotecilor, fără a fi responsabile pentru conținutul găzduit pe platformele lor",
-      "D": "Le-a obligat să controleze strict conținutul publicat de utilizatori, pentru a preveni limbajul urii şi infracţiunile online"
+        "question": "Care a fost rolul articolului 230 din Legea privind decența în comunicații în protejarea companiilor de tip Google și Facebook de responsabilitatea conținutului online?",
+        "correct": [
+            "C"
+        ],
+        "A": "Le-a interzis să modereze orice tip de conținut pentru a păstra neutralitatea și a evita conflicte juridice",
+        "B": "Le-a permis să fie considerate editori responsabili de conținutul pe care îl moderează, asumându-şi decizii editoriale stricte",
+        "C": "Le-a protejat prin definirea lor ca intermediari neutri, similar bibliotecilor, fără a fi responsabile pentru conținutul găzduit pe platformele lor",
+        "D": "Le-a obligat să controleze strict conținutul publicat de utilizatori, pentru a preveni limbajul urii şi infracţiunile online"
     },
     {
-      "question": "Care este principalul scop al analizei sentimentelor, conform textului?",
-      "correct": ["C"],
-      "A": "Sa genereze texte noi care exprima anumite emotii",
-      "B": "Sa clasifice un text ca fiind fie pozitiv, fie negativ",
-      "C": "Sa detecteze si sa cuantifice diferite emotii intr-un text",
-      "D": "Sa identifice doar emotiile negative intr-un text"
+        "question": "Care este principalul scop al analizei sentimentelor, conform textului?",
+        "correct": [
+            "C"
+        ],
+        "A": "Sa genereze texte noi care exprima anumite emotii",
+        "B": "Sa clasifice un text ca fiind fie pozitiv, fie negativ",
+        "C": "Sa detecteze si sa cuantifice diferite emotii intr-un text",
+        "D": "Sa identifice doar emotiile negative intr-un text"
     },
     {
-      "question": "În anul 2012, Comisia Federală investiga cazul Google și a descoperit următorul lucru:",
-      "correct": ["A"],
-      "A": "Google își promova interesele în mod agresiv, finanțând activitățile academice",
-      "B": "Google primea fonduri de la campaniile de PR",
-      "C": "Google primea fonduri de la campaniile electorale",
-      "D": "Google primea fonduri de la campaniile publicitare"
+        "question": "În anul 2012, Comisia Federală investiga cazul Google și a descoperit următorul lucru:",
+        "correct": [
+            "A"
+        ],
+        "A": "Google își promova interesele în mod agresiv, finanțând activitățile academice",
+        "B": "Google primea fonduri de la campaniile de PR",
+        "C": "Google primea fonduri de la campaniile electorale",
+        "D": "Google primea fonduri de la campaniile publicitare"
     },
     {
-      "question": "De ce în publicitate cercetătorii aveau în vedere și justificau examinarea comportamentului copiilor?",
-      "correct": ["A", "B", "C", "D"],
-      "A": "pentru că cercetătorii se bazau pe acordul informat oferit de părinți",
-      "B": "pentru extinderea categoriilor de public vizate",
-      "C": "pentru a monitoriza răspunsurile neuronale în urma expunerii la anumiți stimuli vizuali",
-      "D": "pentru a plasa mai ușor produsele, fiind vorba despre un public facil de influențat"
+        "question": "De ce în publicitate cercetătorii aveau în vedere și justificau examinarea comportamentului copiilor?",
+        "correct": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "A": "pentru că cercetătorii se bazau pe acordul informat oferit de părinți",
+        "B": "pentru extinderea categoriilor de public vizate",
+        "C": "pentru a monitoriza răspunsurile neuronale în urma expunerii la anumiți stimuli vizuali",
+        "D": "pentru a plasa mai ușor produsele, fiind vorba despre un public facil de influențat"
     },
     {
-      "question": "Ce se întâmplă dacă un site are o singură pagină neoptimizată pentru dispozitive mobile, conform algoritmului Google din 2015?",
-      "correct": ["A"],
-      "A": "Doar acea pagină va fi penalizată, fără a afecta restul site-ului",
-      "B": "Google va afișa un avertisment utilizatorilor înainte de accesarea site-ului",
-      "C": "Site-ul va primi o alertă, dar nu va fi afectat în ierarhizare",
-      "D": "Întreg site-ul va fi exclus din rezultatele căutărilor"
+        "question": "Ce se întâmplă dacă un site are o singură pagină neoptimizată pentru dispozitive mobile, conform algoritmului Google din 2015?",
+        "correct": [
+            "A"
+        ],
+        "A": "Doar acea pagină va fi penalizată, fără a afecta restul site-ului",
+        "B": "Google va afișa un avertisment utilizatorilor înainte de accesarea site-ului",
+        "C": "Site-ul va primi o alertă, dar nu va fi afectat în ierarhizare",
+        "D": "Întreg site-ul va fi exclus din rezultatele căutărilor"
     },
     {
-      "question": "Cine a realizat că datele comportamentale ale utilizatorilor pot fi extrase și prelucrate pentru profituri considerabile la Google?",
-      "correct": ["B"],
-      "A": "Larry Page",
-      "B": "Amit Patel",
-      "C": "Serghei Brin",
-      "D": "Eric Schmidt"
+        "question": "Cine a realizat că datele comportamentale ale utilizatorilor pot fi extrase și prelucrate pentru profituri considerabile la Google?",
+        "correct": [
+            "B"
+        ],
+        "A": "Larry Page",
+        "B": "Amit Patel",
+        "C": "Serghei Brin",
+        "D": "Eric Schmidt"
     },
     {
-      "question": "Care dintre următoarele afirmații descrie cel mai bine publicitatea de căutare?",
-      "correct": ["C"],
-      "A": "Rezultatele sunt afișate în funcție de popularitate, fără a ține cont de plăți.",
-      "B": "Este întotdeauna cea mai ieftină formă de publicitate online.",
-      "C": "Companiile plătesc pentru a-și poziționa anunțurile în partea de sus a rezultatelor căutării.",
-      "D": "Aceasta nu utilizează datele personale ale consumatorilor."
+        "question": "Care dintre următoarele afirmații descrie cel mai bine publicitatea de căutare?",
+        "correct": [
+            "C"
+        ],
+        "A": "Rezultatele sunt afișate în funcție de popularitate, fără a ține cont de plăți.",
+        "B": "Este întotdeauna cea mai ieftină formă de publicitate online.",
+        "C": "Companiile plătesc pentru a-și poziționa anunțurile în partea de sus a rezultatelor căutării.",
+        "D": "Aceasta nu utilizează datele personale ale consumatorilor."
     },
     {
-      "question": "Monitorizarea social media se realizează prin",
-      "correct": ["B"],
-      "A": "Softuri de monitorizare online a datelor personale ale utilizatorilor",
-      "B": "Softuri de analiza sentimentelor",
-      "C": "Comandarea de sondaje online",
-      "D": "Comandarea de servicii de monitorizare a comportamentului consumatorului"
+        "question": "Monitorizarea social media se realizează prin",
+        "correct": [
+            "B"
+        ],
+        "A": "Softuri de monitorizare online a datelor personale ale utilizatorilor",
+        "B": "Softuri de analiza sentimentelor",
+        "C": "Comandarea de sondaje online",
+        "D": "Comandarea de servicii de monitorizare a comportamentului consumatorului"
     },
     {
-      "question": "Care este părerea Shoshanei Zuboff despre studiul comportamentului consumatorilor prin colectarea de date?",
-      "correct": ["A", "C"],
-      "A": "este o metodă care pune numeroase probleme etice, atacând drepturile fundamentale ale omului",
-      "B": "este o metodă sigură și benefică de plasare a produselor",
-      "C": "este o formă de supraveghere specifică pentru capitalismul actual",
-      "D": "este un demers benefic pentru consumatori"
-    },
-    {
-      "question": "Ce implică noua politică de publicitate a Meta pentru utilizatorii rețelelor sociale Facebook și Instagram?",
-      "correct": ["A", "D"],
-      "A": "Unii cercetători media, precum Shoshana Zuboff, susțin că utilizatorii ar trebui să fie plătiți pentru datele lor.",
-      "B": "Datele utilizatorilor care nu plătesc vor fi colectate și utilizate în scop comercial",
-      "C": "Politica Meta oferă utilizatorilor o experiență complet gratuită și fără publicitate, fără colectarea datelor personale",
-      "D": "Utilizatorii au opțiunea de a plăti pentru a folosi serviciul fără reclame."
-    },
-    
-      {
-        "question": "Ce implică noua politică de publicitate a Meta pentru utilizatorii rețelelor sociale Facebook și Instagram?",
-        "correct": ["A", "B", "D"],
-        "A": "Unii cercetători media, precum Shoshana Zuboff, susțin că utilizatorii ar trebui să fie plătiți pentru datele lor.",
-        "B": "Datele utilizatorilor care nu plătesc vor fi colectate și utilizate în scop comercial",
-        "C": "Politica Meta oferă utilizatorilor o experiență complet gratuită și fără publicitate, fără colectarea datelor personale",
-        "D": "Utilizatorii au opțiunea de a plăti pentru a folosi serviciul fără reclame."
-      },
-      {
         "question": "Care este părerea Shoshanei Zuboff despre studiul comportamentului consumatorilor prin colectarea de date?",
-        "correct": ["A", "C", "D"],
+        "correct": [
+            "A",
+            "C"
+        ],
         "A": "este o metodă care pune numeroase probleme etice, atacând drepturile fundamentale ale omului",
         "B": "este o metodă sigură și benefică de plasare a produselor",
         "C": "este o formă de supraveghere specifică pentru capitalismul actual",
         "D": "este un demers benefic pentru consumatori"
-      },
-      {
+    },
+    {
+        "question": "Ce implică noua politică de publicitate a Meta pentru utilizatorii rețelelor sociale Facebook și Instagram?",
+        "correct": [
+            "A",
+            "D"
+        ],
+        "A": "Unii cercetători media, precum Shoshana Zuboff, susțin că utilizatorii ar trebui să fie plătiți pentru datele lor.",
+        "B": "Datele utilizatorilor care nu plătesc vor fi colectate și utilizate în scop comercial",
+        "C": "Politica Meta oferă utilizatorilor o experiență complet gratuită și fără publicitate, fără colectarea datelor personale",
+        "D": "Utilizatorii au opțiunea de a plăti pentru a folosi serviciul fără reclame."
+    },
+    {
         "question": "Care este structura acțiunilor adoptată de Google în 2004 pentru a menține controlul asupra companiei?",
-        "correct": ["B"],
+        "correct": [
+            "B"
+        ],
         "A": "Google a avut o structură cu o singură clasă de acțiuni, în care fiecare acțiune avea un vot",
         "B": "Google a adoptat o structură cu două clase de acțiuni, unde acțiunile de clasa A ofereau un vot per acțiune, iar cele de clasa B ofereau 10 voturi per acțiune",
         "C": "Google a lansat doar acțiuni de clasa C, care ofereau 5 voturi per acțiune",
         "D": "Google a adoptat o structură cu trei clase de acțiuni, fiecare având drepturi egale de vot"
-      },
-      {
+    },
+    {
         "question": "Când au apărut în scena publicitară marii manageri specializați în fuziuni și achiziții?",
-        "correct": ["C"],
+        "correct": [
+            "C"
+        ],
         "A": "anii 70",
         "B": "anii 2000",
         "C": "anii 80",
         "D": "anii 90"
-      },
-      {
+    },
+    {
         "question": "Ce element este crucial pentru navigarea ușoară pe un site web?",
-        "correct": ["A"],
+        "correct": [
+            "A"
+        ],
         "A": "Accesibilitatea meniului principal din orice pagină",
         "B": "Menusuri multiple care oferă toate opțiunile pe o singură pagină",
         "C": "Un site cu informații încărcate, fără funcție de căutare",
         "D": "Folosirea unor imagini mari care nu se adaptează la dispozitive mobile"
-      },
-      {
+    },
+    {
         "question": "Care a fost principalul motiv pentru care companii precum Google și Facebook au optat pentru o structură cu două clase de acțiuni la momentul listării la bursă?",
-        "correct": ["C"],
+        "correct": [
+            "C"
+        ],
         "A": "Pentru a reduce costurile asociate cu listarea la bursă",
         "B": "Pentru a oferi acționarilor minoritari mai multe drepturi de vot",
         "C": "Pentru a împiedica preluările ostile și a-și menține controlul asupra companiei",
         "D": "Pentru a facilita achiziția de către alte companii"
-      },
-      {
+    },
+    {
         "question": "Modelul VALS (values and lifestyles) i-a permis lui James Ogilvy să facă în premieră:",
-        "correct": ["B"],
+        "correct": [
+            "B"
+        ],
         "A": "o clasificare a familiilor de fonturi",
         "B": "o împărțire a ceea ce le place oamenilor, care sunt valorile în care cred, ce tip de ideal îi ghidează în viață.",
         "C": "un standard de logo",
         "D": "un engine de căutare a imaginilor jpg"
-      },
-      {
+    },
+    {
         "question": "Ce a însemnat colaborarea dintre Google și agențiile de spionaj americane începând din 2003?",
-        "correct": ["C"],
+        "correct": [
+            "C"
+        ],
         "A": "Google a fost reglementat strict pentru a nu putea oferi date comportamentale agențiilor guvernamentale.",
         "B": "Google a fost obligat să își limiteze capacitatea de colectare a datelor.",
         "C": "Google a oferit acces la date sensibile și a colaborat cu CIA prin unitatea Inerlink.",
         "D": "Google a refuzat orice colaborare cu agențiile guvernamentale."
-      },
-      {
+    },
+    {
         "question": "Ce a vândut Google clienților săi, conform textului?",
-        "correct": ["C"],
+        "correct": [
+            "C"
+        ],
         "A": "Spațiu publicitar gratuit",
         "B": "Date personale",
         "C": "Predicții bazate pe date personale",
         "D": "Analize detaliate ale comportamentului utilizatorilor"
-      },
-      {
+    },
+    {
         "question": "Care este unul dintre beneficiile utilizării software-ului de monitorizare a social media pentru companii?",
-        "correct": ["C"],
+        "correct": [
+            "C"
+        ],
         "A": "Analizarea exclusiv a fotografiilor din social media",
         "B": "Obținerea unor date anonime de la clienți",
         "C": "Construirea unei campanii personalizate pe interesele publicului țintă",
         "D": "Reducerea costurilor de promovare"
-      },
-      
-        {
-          "question": "Care este cel mai mic segment de publicitate online ca venituri globale și unde este utilizat cel mai mult?",
-          "correct": ["B"],
-          "A": "Publicitatea televizată, care reprezintă 5.8% din veniturile globale, și este utilizată cel mai mult în Africa.",
-          "B": "Publicitatea clasificată, care reprezintă 5.2% din veniturile globale, și este utilizată cel mai mult în Europa.",
-          "C": "Publicitatea clasificată, care reprezintă 5% din veniturile globale, și este utilizată cel mai mult în Regatele Unite.",
-          "D": "Publicitatea clasică, care reprezintă 2.4% din veniturile globale, și este utilizată cel mai mult în Statele Unite."
-        },
-        {
-          "question": "Care a fost rolul articolului 230 din Legea privind decența în comunicații în protejarea companiilor de tip Google și Facebook de responsabilitatea conținutului online?",
-          "correct": ["A"],
-          "A": "Le-a protejat prin definirea lor ca intermediari neutri, similar bibliotecilor, fără a fi responsabile pentru conținutul găzduit pe platformele lor",
-          "B": "Le-a permis să fie considerate editori responsabili de conținutul pe care îl moderează, asumându-și decizii editoriale stricte",
-          "C": "Le-a interzis să modereze orice tip de conținut pentru a păstra neutralitatea și a evita conflicte juridice",
-          "D": "Le-a obligat să controleze strict conținutul publicat de utilizatori, pentru a preveni limbajul urii și infracțiunile online"
-        },
-        {
-          "question": "Ce a fost efectul lansării aplicației Beacon de către Facebook asupra utilizatorilor?",
-          "correct": ["C"],
-          "A": "A dus la creșterea numărului de utilizatori",
-          "B": "A îmbunătățit experiența utilizatorilor pe platformă",
-          "C": "A generat un scandal din cauza lipsei consimțământului",
-          "D": "A fost un succes comercial imediat"
-        },
-        {
-          "question": "Care este principalul scop al analizei sentimentelor, conform textului?",
-          "correct": ["C"],
-          "A": "Să genereze texte noi care exprimă anumite emoții",
-          "B": "Să clasifice un text ca fiind fie pozitiv, fie negativ",
-          "C": "Să detecteze și să cuantifice diferite emoții într-un text",
-          "D": "Să identifice doar emoțiile negative într-un text"
-        },
-        {
-          "question": "Cum a influențat structura acționariatului companiilor precum Google și Facebook consolidarea practicilor extractive oneroase în domeniul datelor personale?",
-          "correct": ["D"],
-          "A": "Prin eliminarea completă a drepturilor de vot pentru toți acționarii, lăsând deciziile exclusiv în mâinile guvernului",
-          "B": "Prin listarea la bursă cu o singură clasă de acțiuni, care a permis o transparență totală și implicarea largă a acționarilor în decizii",
-          "C": "Prin impunerea unor limite legislative stricte asupra exploatării datelor personale, ca urmare a presiunilor acționarilor",
-          "D": "Prin crearea unei structuri cu două sau mai multe clase de acțiuni, care a asigurat controlul fondatorilor și le-a permis să ia măsuri discreționare fără interferențe"
-        },
-        {
-          "question": "Ce reprezintă rata de conversie?",
-          "correct": ["B"],
-          "A": "Poziția reclamei în căutările Google",
-          "B": "Raportul dintre persoane ce văd anunțul plătit și persoane ce dau click pe anunț",
-          "C": "Frecvența click-urilor",
-          "D": "Cât de multe reclame se pot găsi într-un anumit timp"
-        },
-        {
-          "question": "Care a fost descoperirea cheie făcută de Amit Patel care a revoluționat industria publicității?",
-          "correct": ["A"],
-          "A": "A înțeles că datele comportamentale pot fi folosite pentru a viza publicitatea către anumite grupuri de consumatori",
-          "B": "A dezvoltat algoritmi care permit companiilor să prezică exact ce produse vor cumpăra consumatorii",
-          "C": "A realizat că amprenta digitală a potențialilor consumatori poate fi comercializată",
-          "D": "A realizat că datele comportamentale pot fi folosite pentru a îmbunătăți rezultatele căutării"
-        },
-        {
-          "question": "Cine a fondat Institutul pentru Cercetarea Motivației?",
-          "correct": ["A"],
-          "A": "Ernest Dichter",
-          "B": "Edward Bernays",
-          "C": "Martin Sorell",
-          "D": "Shoshana Zuboff"
-        },
-        {
-          "question": "Ce tehnică a folosit Bernays pentru a obține informații cu privire la temerile și dorințele consumatorilor pentru a-i manipula?",
-          "correct": ["C", "D"],
-          "A": "A folosit tehnica focus grupului ca tehnică de sondare a dorințelor inconștiente ale consumatorilor",
-          "B": "A folosit mecanismul asocierii libere observat de-a lungul conversațiilor înregistrate la care erau invitați să participe consumatori din publicul țintă",
-          "C": "A folosit lucrarea unchiului său, Sigmund Freud, „Introducere în psihanaliză\"",
-          "D": "A folosit o metodă ce fusese propusă inițial pentru a ajuta oamenii să-și depășească problemele psihologice"
-        },
-        {
-          "question": "Care dintre următoarele afirmații sunt adevărate despre piața publicității online și evoluția acesteia?",
-          "correct": ["A", "B", "D"],
-          "A": "Facebook domină piața publicității sociale în SUA și Europa, cu o cotă de piață între 75% și 80%.",
-          "B": "Utilizatorii rețelelor sociale pot opta pentru experiențe fără reclame contra cost, conform politicilor Meta.",
-          "C": "Achiziționarea de spațiu publicitar nu este complet automatizată și permite o țintire mai eficientă a publicului.",
-          "D": "Publicitatea pe rețelele sociale reprezintă cea mai importantă sursă de venituri în publicitatea online, cu o pondere de 51% la nivel global."
-        },
-        {
-          "question": "Care a fost unul dintre principalele efecte ale crizei \"dot com\"?",
-          "correct": ["D"],
-          "A": "Scăderea numărului de utilizatori de internet",
-          "B": "Creșterea masivă a valorii companiilor digitale",
-          "C": "Crearea unui nou motor de căutare mai eficient",
-          "D": "Presiunea pusă pe Google de a transforma un produs calitativ într-o mașină de făcut bani"
-        },
-        {
-          "question": "Pentru ce platforme au plătit cei de la Google și Mark Zuckerberg?",
-          "correct": ["A"],
-          "A": "YouTube și WhatsApp",
-          "B": "Twitter și Facebook",
-          "C": "WhatsApp și Yahoo!",
-          "D": "Facebook și Instagram"
-        },
-        {
-          "question": "Care este principalul scop al analizei sentimentelor, conform textului?",
-          "correct": ["A"],
-          "A": "Să detecteze și să cuantifice diferite emoții într-un text",
-          "B": "Să identifice doar emoțiile negative într-un text",
-          "C": "Să clasifice un text ca fiind fie pozitiv, fie negativ",
-          "D": "Să genereze texte noi care exprimă anumite emoții"
-        },
-        
-          {
-            "question": "Care este cel mai mic segment de publicitate online ca venituri globale și unde este utilizat cel mai mult?",
-            "correct": ["B"],
-            "A": "Publicitatea televizată, care reprezintă 5.8% din veniturile globale, și este utilizată cel mai mult în Africa.",
-            "B": "Publicitatea clasificată, care reprezintă 5.2% din veniturile globale, și este utilizată cel mai mult în Europa.",
-            "C": "Publicitatea clasificată, care reprezintă 5% din veniturile globale, și este utilizată cel mai mult în Regatele Unite.",
-            "D": "Publicitatea clasică, care reprezintă 2.4% din veniturile globale, și este utilizată cel mai mult în Statele Unite."
-          },
-          {
-            "question": "Care a fost rolul articolului 230 din Legea privind decența în comunicații în protejarea companiilor de tip Google și Facebook de responsabilitatea conținutului online?",
-            "correct": ["A"],
-            "A": "Le-a protejat prin definirea lor ca intermediari neutri, similar bibliotecilor, fără a fi responsabile pentru conținutul găzduit pe platformele lor",
-            "B": "Le-a permis să fie considerate editori responsabili de conținutul pe care îl moderează, asumându-și decizii editoriale stricte",
-            "C": "Le-a interzis să modereze orice tip de conținut pentru a păstra neutralitatea și a evita conflicte juridice",
-            "D": "Le-a obligat să controleze strict conținutul publicat de utilizatori, pentru a preveni limbajul urii și infracțiunile online"
-          },
-          {
-            "question": "Ce a fost efectul lansării aplicației Beacon de către Facebook asupra utilizatorilor?",
-            "correct": ["C"],
-            "A": "A dus la creșterea numărului de utilizatori",
-            "B": "A îmbunătățit experiența utilizatorilor pe platformă",
-            "C": "A generat un scandal din cauza lipsei consimțământului",
-            "D": "A fost un succes comercial imediat"
-          },
-          {
-            "question": "Care este principalul scop al analizei sentimentelor, conform textului?",
-            "correct": ["C"],
-            "A": "Să genereze texte noi care exprimă anumite emoții",
-            "B": "Să clasifice un text ca fiind fie pozitiv, fie negativ",
-            "C": "Să detecteze și să cuantifice diferite emoții într-un text",
-            "D": "Să identifice doar emoțiile negative într-un text"
-          },
-          {
-            "question": "Cum a influențat structura acționariatului companiilor precum Google și Facebook consolidarea practicilor extractive oneroase în domeniul datelor personale?",
-            "correct": ["D"],
-            "A": "Prin eliminarea completă a drepturilor de vot pentru toți acționarii, lăsând deciziile exclusiv în mâinile guvernului",
-            "B": "Prin listarea la bursă cu o singură clasă de acțiuni, care a permis o transparență totală și implicarea largă a acționarilor în decizii",
-            "C": "Prin impunerea unor limite legislative stricte asupra exploatării datelor personale, ca urmare a presiunilor acționarilor",
-            "D": "Prin crearea unei structuri cu două sau mai multe clase de acțiuni, care a asigurat controlul fondatorilor și le-a permis să ia măsuri discreționare fără interferențe"
-          },
-          {
-            "question": "Ce reprezintă rata de conversie?",
-            "correct": ["B"],
-            "A": "Poziția reclamei în căutările Google",
-            "B": "Raportul dintre persoane ce văd anunțul plătit și persoane ce dau click pe anunț",
-            "C": "Frecvența click-urilor",
-            "D": "Cât de multe reclame se pot găsi într-un anumit timp"
-          },
-          {
-            "question": "Care a fost descoperirea cheie făcută de Amit Patel care a revoluționat industria publicității?",
-            "correct": ["A"],
-            "A": "A înțeles că datele comportamentale pot fi folosite pentru a viza publicitatea către anumite grupuri de consumatori",
-            "B": "A dezvoltat algoritmi care permit companiilor să prezică exact ce produse vor cumpăra consumatorii",
-            "C": "A realizat că amprenta digitală a potențialilor consumatori poate fi comercializată",
-            "D": "A realizat că datele comportamentale pot fi folosite pentru a îmbunătăți rezultatele căutării"
-          },
-          {
-            "question": "Cine a fondat Institutul pentru Cercetarea Motivației?",
-            "correct": ["A"],
-            "A": "Ernest Dichter",
-            "B": "Edward Bernays",
-            "C": "Martin Sorell",
-            "D": "Shoshana Zuboff"
-          },
-          {
-            "question": "Ce tehnică a folosit Bernays pentru a obține informații cu privire la temerile și dorințele consumatorilor pentru a-i manipula?",
-            "correct": ["C","D"],
-            "A": "A folosit tehnica focus grupului ca tehnică de sondare a dorințelor inconștiente ale consumatorilor",
-            "B": "A folosit mecanismul asocierii libere observat de-a lungul conversațiilor înregistrate la care erau invitați să participe consumatori din publicul țintă",
-            "C": "A folosit lucrarea unchiului său, Sigmund Freud, „Introducere în psihanaliză\"",
-            "D": "A folosit o metodă ce fusese propusă inițial pentru a ajuta oamenii să-și depășească problemele psihologice"
-          },
-          {
-            "question": "Care dintre următoarele afirmații sunt adevărate despre piața publicității online și evoluția acesteia?",
-            "correct": ["A","B","D"],
-            "A": "Facebook domină piața publicității sociale în SUA și Europa, cu o cotă de piață între 75% și 80%.",
-            "B": "Utilizatorii rețelelor sociale pot opta pentru experiențe fără reclame contra cost, conform politicilor Meta.",
-            "C": "Achiziționarea de spațiu publicitar nu este complet automatizată și permite o țintire mai eficientă a publicului.",
-            "D": "Publicitatea pe rețelele sociale reprezintă cea mai importantă sursă de venituri în publicitatea online, cu o pondere de 51% la nivel global."
-          },
-          {
-            "question": "Care a fost unul dintre principalele efecte ale crizei \"dot com\"?",
-            "correct": ["D"],
-            "A": "Scăderea numărului de utilizatori de internet",
-            "B": "Creșterea masivă a valorii companiilor digitale",
-            "C": "Crearea unui nou motor de căutare mai eficient",
-            "D": "Presiunea pusă pe Google de a transforma un produs calitativ într-o mașină de făcut bani"
-          },
-          {
-            "question": "Pentru ce platforme au plătit cei de la Google și Mark Zuckerberg?",
-            "correct": ["A"],
-            "A": "YouTube și WhatsApp",
-            "B": "Twitter și Facebook",
-            "C": "WhatsApp și Yahoo!",
-            "D": "Facebook și Instagram"
-          },
-          {
-            "question": "Care este principalul scop al analizei sentimentelor, conform textului?",
-            "correct": ["A"],
-            "A": "Să detecteze și să cuantifice diferite emoții într-un text",
-            "B": "Să identifice doar emoțiile negative într-un text",
-            "C": "Să clasifice un text ca fiind fie pozitiv, fie negativ",
-            "D": "Să genereze texte noi care exprimă anumite emoții"
-          },
-          
-            {
-              "question": "Ce implică noua politică de publicitate a Meta pentru utilizatorii rețelelor sociale Facebook și Instagram?",
-              "correct": ["A","B","D"],
-              "A": "Unii cercetători media, precum Shoshana Zuboff, susțin că utilizatorii ar trebui să fie plătiți pentru datele lor.",
-              "B": "Datele utilizatorilor care nu plătesc vor fi colectate și utilizate în scop comercial.",
-              "C": "Politica Meta oferă utilizatorilor o experiență complet gratuită și fără publicitate, fără colectarea datelor personale.",
-              "D": "Utilizatorii au opțiunea de a plăti pentru a folosi serviciul fără reclame."
-            },
-            {
-              "question": "Care este părerea Shoshanei Zuboff despre studiul comportamentului consumatorilor prin colectarea de date?",
-              "correct": ["C","D"],
-              "A": "Este un demers benefic pentru consumatori.",
-              "B": "Este o metodă sigură și benefică de plasare a produselor.",
-              "C": "Este o metodă care pune numeroase probleme etice, atacând drepturile fundamentale ale omului.",
-              "D": "Este o formă de supraveghere specifică pentru capitalismul actual."
-            },
-            {
-              "question": "Care este structura acțiunilor adoptată de Google în 2004 pentru a menține controlul asupra companiei?",
-              "correct": ["B"],
-              "A": "Google a avut o structură cu o singură clasă de acțiuni, în care fiecare acțiune avea un vot.",
-              "B": "Google a adoptat o structură cu două clase de acțiuni, unde acțiunile de clasă A ofereau un vot per acțiune, iar cele de clasă B ofereau 10 voturi per acțiune.",
-              "C": "Google a lansat doar acțiuni de clasă C, care ofereau 5 voturi per acțiune.",
-              "D": "Google a adoptat o structură cu trei clase de acțiuni, fiecare având drepturi egale de vot."
-            },
-            {
-              "question": "Când au apărut în scena publicitară marii manageri specializați în fuziuni și achiziții?",
-              "correct": ["C"],
-              "A": "Anii 70",
-              "B": "Anii 2000",
-              "C": "Anii 80",
-              "D": "Anii 90"
-            },
-            {
-              "question": "Ce element este crucial pentru navigarea ușoară pe un site web?",
-              "correct": ["A"],
-              "A": "Accesibilitatea meniului principal din orice pagină",
-              "B": "Meniuri multiple care oferă toate opțiunile pe o singură pagină",
-              "C": "Un site cu informații încărcate, fără funcție de căutare",
-              "D": "Folosirea unor imagini mari care nu se adaptează la dispozitive mobile"
-            },
-            {
-              "question": "Care a fost principalul motiv pentru care companii precum Google și Facebook au optat pentru o structură cu două clase de acțiuni la momentul listării la bursă?",
-              "correct": ["D"],
-              "A": "Pentru a oferi acționarilor minoritari mai multe drepturi de vot",
-              "B": "Pentru a reduce costurile asociate cu listarea la bursă",
-              "C": "Pentru a facilita achiziția de către alte companii",
-              "D": "Pentru a împiedica preluările ostile și a-și menține controlul asupra companiei"
-            },
-            {
-              "question": "Ce a însemnat colaborarea dintre Google și agențiile de spionaj americane începând din 2003?",
-              "correct": ["C"],
-              "A": "Google a fost reglementat strict pentru a nu putea oferi date comportamentale agențiilor guvernamentale.",
-              "B": "Google a fost obligat să își limiteze capacitatea de colectare a datelor.",
-              "C": "Google a oferit acces la date sensibile și a colaborat cu CIA prin unitatea Inerlink.",
-              "D": "Google a refuzat orice colaborare cu agențiile guvernamentale."
-            },
-            {
-              "question": "Care a fost rolul articolului 230 din Legea privind decența în comunicații în protejarea companiilor de tip Google și Facebook de responsabilitatea conținutului online?",
-              "correct": ["A"],
-              "A": "Le-a protejat prin definirea lor ca intermediari neutri, similar bibliotecilor, fără a fi responsabile pentru conținutul găzduit pe platformele lor.",
-              "B": "Le-a permis să fie considerate editori responsabili de conținutul pe care îl moderează, asumându-și decizii editoriale stricte.",
-              "C": "Le-a interzis să modereze orice tip de conținut pentru a păstra neutralitatea și a evita conflicte juridice.",
-              "D": "Le-a obligat să controleze strict conținutul publicat de utilizatori, pentru a preveni limbajul urii și infracțiunile online."
-            },
-            {
-              "question": "Care a fost unul dintre principalele efecte ale crizei \"dot com\"?",
-              "correct": ["D"],
-              "A": "Scăderea numărului de utilizatori de internet",
-              "B": "Creșterea masivă a valorii companiilor digitale",
-              "C": "Crearea unui nou motor de căutare mai eficient",
-              "D": "Presiunea pusă pe Google de a transforma un produs calitativ într-o mașină de făcut bani"
-            },
-            
-              {
-                "question": "Care dintre următoarele principii este recomandat în designul unui site web pentru a asigura o imagine profesionistă?",
-                "correct": ["C"],
-                "A": "Folosirea unui design încărcat cu elemente vizuale",
-                "B": "Utilizarea de fonturi decorative și culori contrastante",
-                "C": "Consistența în comunicare și utilizarea unui stil vizual coerent",
-                "D": "Adăugarea de imagini mari și complexe pe fiecare pagină"
-              },
-              {
-                "question": "În ce mod a influențat Google politica de securitate națională a Statelor Unite după 11 septembrie 2001, conform lui Zuboff?",
-                "correct": ["C", "D"],
-                "A": "A eliminat colectarea datelor personale pentru a respecta reglementările privind viața privată",
-                "B": "A oferit acces deschis la datele personale colectate pentru agențiile de spionaj",
-                "C": "A colaborat cu NSA pentru a dezvolta un program similar cu cel de colectare de date comportamentale",
-                "D": "A încheiat un contract special cu CIA pentru securizarea datelor intranetului"
-              },
-              {
-                "question": "Care a fost efectul lansării aplicației Beacon de către Facebook asupra utilizatorilor?",
-                "correct": ["C"],
-                "A": "A dus la creşterea numărului de utilizatori",
-                "B": "A îmbunătățit experiența utilizatorilor pe platformă",
-                "C": "A generat un scandal din cauza lipsei consimțământului",
-                "D": "A fost un succes comercial imediat"
-              },
-              {
-                "question": "Cum au reușit, într-un final, oamenii de publicitate să rezolve enigma comportamentului consumatorilor?",
-                "correct": ["D"],
-                "A": "prin analizarea structurilor de date",
-                "B": "prin folosirea unui aparat analitic",
-                "C": "prin folosirea programelor de spionaj",
-                "D": "prin extragerea datelor personale si dezvoltarea algoritmilor de predicție"
-              },
-              {
-                "question": "Care a fost rolul articolului 230 din Legea privind decența în comunicații în protejarea companiilor de tip Google și Facebook de responsabilitatea conținutului online?",
-                "correct": ["C"],
-                "A": "Le-a interzis să modereze orice tip de conținut pentru a păstra neutralitatea și a evita conflicte juridice",
-                "B": "Le-a permis să fie considerate editori responsabili de conținutul pe care îl moderează, asumându-şi decizii editoriale stricte",
-                "C": "Le-a protejat prin definirea lor ca intermediari neutri, similar bibliotecilor, fără a fi responsabile pentru conținutul găzduit pe platformele lor",
-                "D": "Le-a obligat să controleze strict conținutul publicat de utilizatori, pentru a preveni limbajul urii şi infracţiunile online"
-              },
-              {
-                "question": "Care este principalul scop al analizei sentimentelor, conform textului?",
-                "correct": ["C"],
-                "A": "Sa genereze texte noi care exprima anumite emotii",
-                "B": "Sa clasifice un text ca fiind fie pozitiv, fie negativ",
-                "C": "Sa detecteze si sa cuantifice diferite emotii intr-un text",
-                "D": "Sa identifice doar emotiile negative intr-un text"
-              },
-              {
-                "question": "În anul 2012, Comisia Federală investiga cazul Google și a descoperit următorul lucru:",
-                "correct": ["A"],
-                "A": "Google își promova interesele în mod agresiv, finanțând activitățile academice",
-                "B": "Google primea fonduri de la campaniile de PR",
-                "C": "Google primea fonduri de la campaniile electorale",
-                "D": "Google primea fonduri de la campaniile publicitare"
-              },
-              {
-                "question": "De ce în publicitate cercetătorii aveau în vedere și justificau examinarea comportamentului copiilor?",
-                "correct": ["A", "B", "C", "D"],
-                "A": "pentru că cercetătorii se bazau pe acordul informat oferit de părinți",
-                "B": "pentru extinderea categoriilor de public vizate",
-                "C": "pentru a monitoriza răspunsurile neuronale în urma expunerii la anumiți stimuli vizuali",
-                "D": "pentru a plasa mai ușor produsele, fiind vorba despre un public facil de influențat"
-              },
-              {
-                "question": "Ce se întâmplă dacă un site are o singură pagină neoptimizată pentru dispozitive mobile, conform algoritmului Google din 2015?",
-                "correct": ["A"],
-                "A": "Doar acea pagină va fi penalizată, fără a afecta restul site-ului",
-                "B": "Google va afișa un avertisment utilizatorilor înainte de accesarea site-ului",
-                "C": "Site-ul va primi o alertă, dar nu va fi afectat în ierarhizare",
-                "D": "Întreg site-ul va fi exclus din rezultatele căutărilor"
-              },
-              {
-                "question": "Cine a realizat că datele comportamentale ale utilizatorilor pot fi extrase și prelucrate pentru profituri considerabile la Google?",
-                "correct": ["B"],
-                "A": "Larry Page",
-                "B": "Amit Patel",
-                "C": "Serghei Brin",
-                "D": "Eric Schmidt"
-              },
-              {
-                "question": "Care dintre următoarele afirmații descrie cel mai bine publicitatea de căutare?",
-                "correct": ["C"],
-                "A": "Rezultatele sunt afișate în funcție de popularitate, fără a ține cont de plăți.",
-                "B": "Este întotdeauna cea mai ieftină formă de publicitate online.",
-                "C": "Companiile plătesc pentru a-și poziționa anunțurile în partea de sus a rezultatelor căutării.",
-                "D": "Aceasta nu utilizează datele personale ale consumatorilor."
-              },
-              {
-                "question": "Monitorizarea social media se realizează prin",
-                "correct": ["B"],
-                "A": "Softuri de monitorizare online a datelor personale ale utilizatorilor",
-                "B": "Softuri de analiza sentimentelor",
-                "C": "Comandarea de sondaje online",
-                "D": "Comandarea de servicii de monitorizare a comportamentului consumatorului"
-              },
-              {
-                "question": "Care este părerea Shoshanei Zuboff despre studiul comportamentului consumatorilor prin colectarea de date?",
-                "correct": ["A", "C"],
-                "A": "este o metodă care pune numeroase probleme etice, atacând drepturile fundamentale ale omului",
-                "B": "este o metodă sigură și benefică de plasare a produselor",
-                "C": "este o formă de supraveghere specifică pentru capitalismul actual",
-                "D": "este un demers benefic pentru consumatori"
-              },
-              {
-                "question": "Ce implică noua politică de publicitate a Meta pentru utilizatorii rețelelor sociale Facebook și Instagram?",
-                "correct": ["A", "B", "D"],
-                "A": "Unii cercetători media, precum Shoshana Zuboff, susțin că utilizatorii ar trebui să fie plătiți pentru datele lor.",
-                "B": "Datele utilizatorilor care nu plătesc vor fi colectate și utilizate în scop comercial",
-                "C": "Politica Meta oferă utilizatorilor o experiență complet gratuită și fără publicitate, fără colectarea datelor personale",
-                "D": "Utilizatorii au opțiunea de a plăti pentru a folosi serviciul fără reclame."
-              },
-              {
-                "question": "Care este structura acțiunilor adoptată de Google în 2004 pentru a menține controlul asupra companiei?",
-                "correct": ["B"],
-                "A": "Google a avut o structură cu o singură clasă de acțiuni, în care fiecare acțiune avea un vot",
-                "B": "Google a adoptat o structură cu două clase de acțiuni, unde acțiunile de clasă A ofereau un vot per acțiune, iar cele de clasă B ofereau 10 voturi per acțiune",
-                "C": "Google a lansat doar acțiuni de clasă C, care ofereau 5 voturi per acțiune",
-                "D": "Google a adoptat o structură cu trei clase de acțiuni, fiecare având drepturi egale de vot"
-              },
-              {
-                "question": "Când au apărut în scena publicitară marii manageri specializați în fuziuni și achiziții?",
-                "correct": ["C"],
-                "A": "anii 70",
-                "B": "anii 2000",
-                "C": "anii 80",
-                "D": "anii 90"
-              },
-              {
-                "question": "Ce element este crucial pentru navigarea ușoară pe un site web?",
-                "correct": ["A"],
-                "A": "Accesibilitatea meniului principal din orice pagină",
-                "B": "Menusuri multiple care oferă toate opțiunile pe o singură pagină",
-                "C": "Un site cu informații încărcate, fără funcție de căutare",
-                "D": "Folosirea unor imagini mari care nu se adaptează la dispozitive mobile"
-              },
-              {
-                "question": "Care a fost principalul motiv pentru care companii precum Google și Facebook au optat pentru o structură cu două clase de acțiuni la momentul listării la bursă?",
-                "correct": ["C"],
-                "A": "Pentru a reduce costurile asociate cu listarea la bursă",
-                "B": "Pentru a oferi acționarilor minoritari mai multe drepturi de vot",
-                "C": "Pentru a împiedica preluările ostile și a-și menține controlul asupra companiei",
-                "D": "Pentru a facilita achiziția de către alte companii"
-              },
-              
-                {
-                  "question": "Ce tip de extensie este recomandată pentru imagini care necesită transparență?",
-                  "correct": ["B"],
-                  "A": "GIF",
-                  "B": "PNG",
-                  "C": "WEBP",
-                  "D": "JPEG"
-                },
-                {
-                  "question": "Ce înseamnă „responsive web design\"?",
-                  "correct": ["C"],
-                  "A": "Reducerea numărului de imagini utilizate pe site",
-                  "B": "Crearea unei versiuni separate a site-ului pentru fiecare dispozitiv",
-                  "C": "Ajustarea automată a conținutului site-ului în funcție de dimensiunea ecranului",
-                  "D": "Oferirea doar a unei versiuni a site-ului pentru desktop"
-                },
-                {
-                  "question": "Care a fost unul dintre principalele efecte ale crizei \"dot com\"?",
-                  "correct": ["C"],
-                  "A": "Scăderea numărului de utilizatori de internet",
-                  "B": "Creşterea masivă a valorii companiilor digitale",
-                  "C": "Presiunea pusă pe Google de a transforma un produs calitativ într-o maşină de făcut bani",
-                  "D": "Crearea unui nou motor de căutare mai eficient"
-                },
-                {
-                  "question": "Care era viziunea inițială a fondatorilor Google, Sergey Brin și Larry Page, cu privire la publicitatea în motorul de căutare?",
-                  "correct": ["B", "C"],
-                  "A": "Să finanțeze motorul de căutare exclusiv prin publicitate.",
-                  "B": "Să ofere rezultate căutării pe baze corecte, fără a favoriza anunțurile publicitare.",
-                  "C": "Să mențină publicitatea ca un aspect secundar și să evite influențarea rezultatelor căutării.",
-                  "D": "Să încurajeze publicitatea ca principal mod de generare a veniturilor."
-                },
-                {
-                  "question": "La ce se referă tehnicile de neuromarketing folosite în publicitate?",
-                  "correct": ["D"],
-                  "A": "Invitarea consumatorilor la interviuri pentru a discuta în prezența unui neurolog despre comportamentul de consum",
-                  "B": "Expunerea la imagini media și colectarea de date prin intermediul chestionarelor",
-                  "C": "Realizarea de sondaje și prelucrarea statistică a acestora pentru a descoperi tipare neurologice",
-                  "D": "Conectarea creierului la un computer-tomograf pentru a analiza activitatea cerebrală generată de anumiți stimuli vizuali"
-                },
-                {
-                  "question": "Edward Bernays a remarcat prin:",
-                  "correct": ["A"],
-                  "A": "a folosit psihanaliza pentru a persuada",
-                  "B": "a fondat Institutul pentru Cercetarea Motivației",
-                  "C": "este un nume legendar al publicităţii",
-                  "D": "a iniţiat tehnica focus grupului"
-                },
-                {
-                  "question": "Criza \"dot com\" se referă la:",
-                  "correct": ["D"],
-                  "A": "Concurența dintre marile companii pentru spațiul publicitar online",
-                  "B": "O pană de curent care a afectat serverele globale",
-                  "C": "Un colaps în bugetele publicitare ale companiilor de tehnologie din anii 2000",
-                  "D": "Momentul în care companiile digitale supraevaluate la bursă au început să se prăbușească"
-                },
-                {
-                  "question": "Care dintre următoarele afirmaţii sunt adevărate?",
-                  "correct": ["A", "D"],
-                  "A": "Dimensiunea optimă a unei pagini web este între 1 MB și 2 MB",
-                  "B": "Un scor perfect la testele de viteză garantează o poziție fruntașă în căutările Google",
-                  "C": "Rezoluția recomandată pentru pagini destinate imprimării este de 72 px/inch",
-                  "D": "Google verifică periodic site-urile prin intermediul unui robot care simulează un mobil"
-                },
-                {
-                  "question": "Care dintre următoarele elemente descrise de Zuboff contribuie la evitarea reglementărilor asupra colectării datelor de către companiile private?",
-                  "correct": ["A"],
-                  "A": "Activități agresive de lobby și coruperea cercetării academice.",
-                  "B": "Limitarea parteneriatelor cu agențiile guvernamentale.",
-                  "C": "Folosirea datelor în scopuri educaționale.",
-                  "D": "Colaborarea transparentă cu administrația centrală."
-                },
-                {
-                  "question": "Ce efect a avut atacul din 11 septembrie 2001 asupra reglementărilor privind viața privată și securitatea datelor personale în Statele Unite?",
-                  "correct": ["C"],
-                  "A": "Companiile private nu au avut voie să colaboreze cu agențiile de securitate.",
-                  "B": "A crescut protecția datelor personale prin reglementări stricte.",
-                  "C": "S-a redus importanța protecției datelor personale în favoarea securității naționale."
-                },
-                {
-                  "question": "Care dintre următoarele afirmații este corectă despre algoritmul de căutare al Google pentru site-urile mobile?",
-                  "correct": ["C"],
-                  "A": "Google penalizează tot site-ul dacă o singură pagină are probleme de optimizare pentru mobile.",
-                  "B": "Google penalizează site-urile care nu au imagini optimizate pentru desktop, nu pentru mobil.",
-                  "C": "Google accesează site-urile prin intermediul unui robot care simulează un mobil pentru a verifica elementele care ies din ecran și dacă navigarea este rapidă.",
-                  "D": "Google nu ține cont de viteza de încărcare a site-urilor în procesul de ierarhizare."
-                },
-                {
-                  "question": "Ce a vândut Google clienților săi, conform textului?",
-                  "correct": ["A"],
-                  "A": "Predicții bazate pe date personale",
-                  "B": "Analize detaliate ale comportamentului utilizatorilor",
-                  "C": "Spațiu publicitar gratuit",
-                  "D": "Date personale"
-                },
-                {
-                  "question": "Cum au reușit, într-un final, oamenii de publicitate să rezolve enigma comportamentului consumatorilor?",
-                  "correct": ["A"],
-                  "A": "prin extragerea datelor personale și dezvoltarea algoritmilor de predicție",
-                  "B": "prin analizarea structurilor de date",
-                  "C": "prin folosirea programelor de spionaj",
-                  "D": "prin folosirea unui aparat analitic"
-                },
-                {
-                  "question": "În anul 2012, Comisia Federală investiga cazul Google și a descoperit următorul lucru:",
-                  "correct": ["B"],
-                  "A": "Google primea fonduri de la campaniile publicitare",
-                  "B": "Google își promova interesele în mod agresiv, finanțând activitățile academice",
-                  "C": "Google primea fonduri de la campaniile electorale",
-                  "D": "Google primea fonduri de la campaniile de PR"
-                },
-                {
-                  "question": "Care este cel mai mic segment de publicitate online ca venituri globale și unde este utilizat cel mai mult?",
-                  "correct": ["A"],
-                  "A": "Publicitatea clasificată, care reprezintă 5.2% din veniturile globale, și este utilizată cel mai mult în Europa.",
-                  "B": "Publicitatea clasificată, care reprezintă 5% din veniturile globale, și este utilizată cel mai mult în Regatele Unite.",
-                  "C": "Publicitatea clasică, care reprezintă 2.4% din veniturile globale, și este utilizată cel mai mult în Statele Unite.",
-                  "D": "Publicitatea televizată, care reprezintă 5.8% din veniturile globale, și este utilizată cel mai mult în Africa."
-                }
-              ]
-              
-          
-            
-      
-          
-        
-      
-    
-  
+    },
+    {
+        "question": "Care este cel mai mic segment de publicitate online ca venituri globale și unde este utilizat cel mai mult?",
+        "correct": [
+            "B"
+        ],
+        "A": "Publicitatea televizată, care reprezintă 5.8% din veniturile globale, și este utilizată cel mai mult în Africa.",
+        "B": "Publicitatea clasificată, care reprezintă 5.2% din veniturile globale, și este utilizată cel mai mult în Europa.",
+        "C": "Publicitatea clasificată, care reprezintă 5% din veniturile globale, și este utilizată cel mai mult în Regatele Unite.",
+        "D": "Publicitatea clasică, care reprezintă 2.4% din veniturile globale, și este utilizată cel mai mult în Statele Unite."
+    },
+    {
+        "question": "Ce a fost efectul lansării aplicației Beacon de către Facebook asupra utilizatorilor?",
+        "correct": [
+            "C"
+        ],
+        "A": "A dus la creșterea numărului de utilizatori",
+        "B": "A îmbunătățit experiența utilizatorilor pe platformă",
+        "C": "A generat un scandal din cauza lipsei consimțământului",
+        "D": "A fost un succes comercial imediat"
+    },
+    {
+        "question": "Cum a influențat structura acționariatului companiilor precum Google și Facebook consolidarea practicilor extractive oneroase în domeniul datelor personale?",
+        "correct": [
+            "D"
+        ],
+        "A": "Prin eliminarea completă a drepturilor de vot pentru toți acționarii, lăsând deciziile exclusiv în mâinile guvernului",
+        "B": "Prin listarea la bursă cu o singură clasă de acțiuni, care a permis o transparență totală și implicarea largă a acționarilor în decizii",
+        "C": "Prin impunerea unor limite legislative stricte asupra exploatării datelor personale, ca urmare a presiunilor acționarilor",
+        "D": "Prin crearea unei structuri cu două sau mai multe clase de acțiuni, care a asigurat controlul fondatorilor și le-a permis să ia măsuri discreționare fără interferențe"
+    },
+    {
+        "question": "Ce reprezintă rata de conversie?",
+        "correct": [
+            "B"
+        ],
+        "A": "Poziția reclamei în căutările Google",
+        "B": "Raportul dintre persoane ce văd anunțul plătit și persoane ce dau click pe anunț",
+        "C": "Frecvența click-urilor",
+        "D": "Cât de multe reclame se pot găsi într-un anumit timp"
+    },
+    {
+        "question": "Care a fost descoperirea cheie făcută de Amit Patel care a revoluționat industria publicității?",
+        "correct": [
+            "A"
+        ],
+        "A": "A înțeles că datele comportamentale pot fi folosite pentru a viza publicitatea către anumite grupuri de consumatori",
+        "B": "A dezvoltat algoritmi care permit companiilor să prezică exact ce produse vor cumpăra consumatorii",
+        "C": "A realizat că amprenta digitală a potențialilor consumatori poate fi comercializată",
+        "D": "A realizat că datele comportamentale pot fi folosite pentru a îmbunătăți rezultatele căutării"
+    },
+    {
+        "question": "Cine a fondat Institutul pentru Cercetarea Motivației?",
+        "correct": [
+            "A"
+        ],
+        "A": "Ernest Dichter",
+        "B": "Edward Bernays",
+        "C": "Martin Sorell",
+        "D": "Shoshana Zuboff"
+    },
+    {
+        "question": "Ce tehnică a folosit Bernays pentru a obține informații cu privire la temerile și dorințele consumatorilor pentru a-i manipula?",
+        "correct": [
+            "C",
+            "D"
+        ],
+        "A": "A folosit tehnica focus grupului ca tehnică de sondare a dorințelor inconștiente ale consumatorilor",
+        "B": "A folosit mecanismul asocierii libere observat de-a lungul conversațiilor înregistrate la care erau invitați să participe consumatori din publicul țintă",
+        "C": "A folosit lucrarea unchiului său, Sigmund Freud, „Introducere în psihanaliză\"",
+        "D": "A folosit o metodă ce fusese propusă inițial pentru a ajuta oamenii să-și depășească problemele psihologice"
+    },
+    {
+        "question": "Care dintre următoarele afirmații sunt adevărate despre piața publicității online și evoluția acesteia?",
+        "correct": [
+            "A",
+            "B",
+            "D"
+        ],
+        "A": "Facebook domină piața publicității sociale în SUA și Europa, cu o cotă de piață între 75% și 80%.",
+        "B": "Utilizatorii rețelelor sociale pot opta pentru experiențe fără reclame contra cost, conform politicilor Meta.",
+        "C": "Achiziționarea de spațiu publicitar nu este complet automatizată și permite o țintire mai eficientă a publicului.",
+        "D": "Publicitatea pe rețelele sociale reprezintă cea mai importantă sursă de venituri în publicitatea online, cu o pondere de 51% la nivel global."
+    },
+    {
+        "question": "Care a fost unul dintre principalele efecte ale crizei \"dot com\"?",
+        "correct": [
+            "D"
+        ],
+        "A": "Scăderea numărului de utilizatori de internet",
+        "B": "Creșterea masivă a valorii companiilor digitale",
+        "C": "Crearea unui nou motor de căutare mai eficient",
+        "D": "Presiunea pusă pe Google de a transforma un produs calitativ într-o mașină de făcut bani"
+    },
+    {
+        "question": "Pentru ce platforme au plătit cei de la Google și Mark Zuckerberg?",
+        "correct": [
+            "A"
+        ],
+        "A": "YouTube și WhatsApp",
+        "B": "Twitter și Facebook",
+        "C": "WhatsApp și Yahoo!",
+        "D": "Facebook și Instagram"
+    },
+    {
+        "question": "Ce tip de extensie este recomandată pentru imagini care necesită transparență?",
+        "correct": [
+            "B"
+        ],
+        "A": "GIF",
+        "B": "PNG",
+        "C": "WEBP",
+        "D": "JPEG"
+    },
+    {
+        "question": "Ce înseamnă „responsive web design\"?",
+        "correct": [
+            "C"
+        ],
+        "A": "Reducerea numărului de imagini utilizate pe site",
+        "B": "Crearea unei versiuni separate a site-ului pentru fiecare dispozitiv",
+        "C": "Ajustarea automată a conținutului site-ului în funcție de dimensiunea ecranului",
+        "D": "Oferirea doar a unei versiuni a site-ului pentru desktop"
+    },
+    {
+        "question": "Care era viziunea inițială a fondatorilor Google, Sergey Brin și Larry Page, cu privire la publicitatea în motorul de căutare?",
+        "correct": [
+            "B",
+            "C"
+        ],
+        "A": "Să finanțeze motorul de căutare exclusiv prin publicitate.",
+        "B": "Să ofere rezultate căutării pe baze corecte, fără a favoriza anunțurile publicitare.",
+        "C": "Să mențină publicitatea ca un aspect secundar și să evite influențarea rezultatelor căutării.",
+        "D": "Să încurajeze publicitatea ca principal mod de generare a veniturilor."
+    },
+    {
+        "question": "La ce se referă tehnicile de neuromarketing folosite în publicitate?",
+        "correct": [
+            "D"
+        ],
+        "A": "Invitarea consumatorilor la interviuri pentru a discuta în prezența unui neurolog despre comportamentul de consum",
+        "B": "Expunerea la imagini media și colectarea de date prin intermediul chestionarelor",
+        "C": "Realizarea de sondaje și prelucrarea statistică a acestora pentru a descoperi tipare neurologice",
+        "D": "Conectarea creierului la un computer-tomograf pentru a analiza activitatea cerebrală generată de anumiți stimuli vizuali"
+    },
+    {
+        "question": "Edward Bernays a remarcat prin:",
+        "correct": [
+            "A"
+        ],
+        "A": "a folosit psihanaliza pentru a persuada",
+        "B": "a fondat Institutul pentru Cercetarea Motivației",
+        "C": "este un nume legendar al publicităţii",
+        "D": "a iniţiat tehnica focus grupului"
+    },
+    {
+        "question": "Criza \"dot com\" se referă la:",
+        "correct": [
+            "D"
+        ],
+        "A": "Concurența dintre marile companii pentru spațiul publicitar online",
+        "B": "O pană de curent care a afectat serverele globale",
+        "C": "Un colaps în bugetele publicitare ale companiilor de tehnologie din anii 2000",
+        "D": "Momentul în care companiile digitale supraevaluate la bursă au început să se prăbușească"
+    },
+    {
+        "question": "Care dintre următoarele afirmaţii sunt adevărate?",
+        "correct": [
+            "A",
+            "D"
+        ],
+        "A": "Dimensiunea optimă a unei pagini web este între 1 MB și 2 MB",
+        "B": "Un scor perfect la testele de viteză garantează o poziție fruntașă în căutările Google",
+        "C": "Rezoluția recomandată pentru pagini destinate imprimării este de 72 px/inch",
+        "D": "Google verifică periodic site-urile prin intermediul unui robot care simulează un mobil"
+    },
+    {
+        "question": "Care dintre următoarele elemente descrise de Zuboff contribuie la evitarea reglementărilor asupra colectării datelor de către companiile private?",
+        "correct": [
+            "A"
+        ],
+        "A": "Activități agresive de lobby și coruperea cercetării academice.",
+        "B": "Limitarea parteneriatelor cu agențiile guvernamentale.",
+        "C": "Folosirea datelor în scopuri educaționale.",
+        "D": "Colaborarea transparentă cu administrația centrală."
+    },
+    {
+        "question": "Ce efect a avut atacul din 11 septembrie 2001 asupra reglementărilor privind viața privată și securitatea datelor personale în Statele Unite?",
+        "correct": [
+            "C"
+        ],
+        "A": "Companiile private nu au avut voie să colaboreze cu agențiile de securitate.",
+        "B": "A crescut protecția datelor personale prin reglementări stricte.",
+        "C": "S-a redus importanța protecției datelor personale în favoarea securității naționale."
+    },
+    {
+        "question": "Care dintre următoarele afirmații este corectă despre algoritmul de căutare al Google pentru site-urile mobile?",
+        "correct": [
+            "C"
+        ],
+        "A": "Google penalizează tot site-ul dacă o singură pagină are probleme de optimizare pentru mobile.",
+        "B": "Google penalizează site-urile care nu au imagini optimizate pentru desktop, nu pentru mobil.",
+        "C": "Google accesează site-urile prin intermediul unui robot care simulează un mobil pentru a verifica elementele care ies din ecran și dacă navigarea este rapidă.",
+        "D": "Google nu ține cont de viteza de încărcare a site-urilor în procesul de ierarhizare."
+    }
+]
